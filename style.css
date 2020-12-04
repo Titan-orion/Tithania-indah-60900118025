@@ -9,6 +9,7 @@ body{
 
 #profile-container{
     max-width: 300px;
+    margin: 80px auto;
     background-color: #F23827;
     border: 1px solid #CC2F21;
     border-radius: 6px;
