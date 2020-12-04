@@ -34,17 +34,16 @@ body{
     font-size: xx-large;
     text-align:center;
     color:#661710;
-    font-family: cursive;
 }
 
 #footer{
     width: 100%;
     height: 50px;
+    position: absolute;
+    bottom: 0;
     line-height: 50px;
     background-color: #A8271B;
     font-size: xx-large;
     text-align: center;
-    font: ;
     color: #661710;
-    font-family: Arial, Helvetica, sans-serif;
 }
