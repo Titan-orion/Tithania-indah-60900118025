@@ -1,13 +1,13 @@
 body{
     width: 100%;
     margin: 30px;
-    background-color: grey;
+    background-color: #661710;
 }
 
 #profile-container{
     max-width: 300px;
-    background-color: darkgrey;
-    border: 1px solid darkred;
+    background-color: #F23827;
+    border: 1px solid #CC2F21;
     border-radius: 6px;
 }
 
@@ -18,6 +18,7 @@ body{
 
 #profile-name{
     text-align: center;
+    color: #661710;
 }
 
 
@@ -25,16 +26,21 @@ body{
     width: 100%;
     height: 50px;
     line-height: 50px;
-    background-color: burlywood;
+    background-color: #A8271B;
+    font-size: xx-large;
     text-align:center;
-    color:white;
+    color:#661710;
+    font-family: cursive;
 }
 
 #footer{
     width: 100%;
     height: 50px;
     line-height: 50px;
-    background-color: darkgrey;
+    background-color: #A8271B;
+    font-size: xx-large;
     text-align: center;
-    color: black;
+    font: ;
+    color: #661710;
+    font-family: Arial, Helvetica, sans-serif;
 }
